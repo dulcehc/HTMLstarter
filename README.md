@@ -10,3 +10,4 @@ Theme to work on web development projects with the following features:
 * Minification of HTML and CSS files
 * Load images
 
+This was build with node 9.10.1
