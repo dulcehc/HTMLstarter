@@ -1,0 +1,16 @@
+{
+  "env": {
+    "browser": true,
+    "node": true
+  },
+  "parserOptions": {
+    "ecmaVersion": 6,
+    "sourceType": "module"
+  },
+  "rules": {
+    "semi": 2,
+    "eqeqeq": ["error", "always"],
+    "eslint max-len": ["error", { "code": 80 }]
+  },
+  "extends": "airbnb-base"
+}
